@@ -1,4 +1,4 @@
-# Database【Planning, undone】
+# Database
 
 ### 课程来源：
 哈尔滨工业大学-[数据库系统（上）：模型与语言-MOOC](https://www.icourse163.org/course/HIT-1001516002?tid=1450161445)
